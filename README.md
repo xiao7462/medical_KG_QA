@@ -17,7 +17,7 @@
 
 # 2.利用neo4j来储存数据
 
-neo4j学习 [neo4j语法初学](https://xiao7462.github.io/2019/05/06/neo4j%E8%AF%AD%E6%B3%95%E5%88%9D%E5%AD%A6/neo) [linux安装neo4j](https://xiao7462.github.io/2019/04/24/linux%E5%AE%89%E8%A3%85neo4j/)
+neo4j学习 [neo4j语法初学](https://xiao7462.github.io/2019/05/06/neo4j%E8%AF%AD%E6%B3%95%E5%88%9D%E5%AD%A6/) [linux安装neo4j](https://xiao7462.github.io/2019/04/24/linux%E5%AE%89%E8%A3%85neo4j/)
 
 ![pgn](https://i.loli.net/2019/05/20/5ce286b76b1b533797.png)
 
