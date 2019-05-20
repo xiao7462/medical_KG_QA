@@ -20,7 +20,7 @@ class Medical_spider:
         req = urllib.request.Request(url=url, headers=headers)
         res = urllib.request.urlopen(req)
         html = res.read().decode('utf-8')
-        return html # 返回一个gbk编码的字符串
+        return html # 返回一个utf-8编码的字符串
 
     def get_str(self,ps): #获得页面下所有的文本
         str1 = ''
