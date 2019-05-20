@@ -111,7 +111,7 @@ python build_medical.py # 知识图谱数据导入
 python chat_graph.py # 启动问答
 ```
 
-# 4.总结
+# 5.总结
 
 -   对结构化的网站采用了xpath+正则匹配来进行数据生成
     
