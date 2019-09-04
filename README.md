@@ -3,7 +3,6 @@
 
 # 1. 项目背景
 
-参考自[A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。](https://github.com/liuhuanyong/QASystemOnMedicalKG)
 
 新学知识图谱知识，这是入门的一个项目， 跟着一步步完成了整个项目，疾病的网站是 http://jbk.39.net/
 
